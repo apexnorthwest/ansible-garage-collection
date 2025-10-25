@@ -1,0 +1,17 @@
+---
+namespace: apexnorthwest
+name: garage
+version: 0.1.0
+readme: README.md
+authors:
+- Tyler Bevan <tyler.bevan@apexnorthwest.com>
+description: Ansible collection for garage object store
+license_file: LICENSE
+tags:
+- s3
+- infrastructure
+repository: https://github.com/apexnorthwest/ansible-garage-collection
+documentation: https://github.com/apexnorthwest/ansible-garage-collection/blob/main/docs/
+homepage: https://github.com/apexnorthwest/ansible-garage-collection
+issues: https://github.com/apexnorthwest/ansible-garage-collection/issues
+build_ignore: []
