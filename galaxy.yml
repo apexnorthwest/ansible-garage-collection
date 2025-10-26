@@ -11,7 +11,8 @@ tags:
 - s3
 - infrastructure
 repository: https://github.com/apexnorthwest/ansible-garage-collection
-documentation: https://github.com/apexnorthwest/ansible-garage-collection/blob/main/docs/
+documentation: https://github.com/apexnorthwest/ansible-garage-collection/blob/main/docs/README.md
 homepage: https://github.com/apexnorthwest/ansible-garage-collection
 issues: https://github.com/apexnorthwest/ansible-garage-collection/issues
-build_ignore: []
+build_ignore:
+- docs
